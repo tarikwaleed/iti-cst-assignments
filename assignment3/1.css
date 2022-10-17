@@ -1,0 +1,30 @@
+.dayMonthButton{
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+    width: 200px;
+    height: 40px;
+
+}
+button:hover{
+    background-color: white;
+    color: orange;
+}
+p{
+    font-size: 40px;
+    font-weight: bold;
+}
+.inner-square{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    
+}
+.outer-square{
+    position: relative;
+    width: 800px;
+    height: 400px;
+}
+.inliner{
+    display: inline-block;
+}
